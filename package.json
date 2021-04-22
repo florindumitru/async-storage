@@ -63,9 +63,6 @@
   "dependencies": {
     "deep-assign": "^3.0.0"
   },
-  "peerDependencies": {
-    "react-native": "*"
-  },
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/runtime": "^7.8.4",
